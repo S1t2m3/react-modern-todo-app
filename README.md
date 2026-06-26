@@ -1,16 +1,63 @@
-# React + Vite
+# Modern React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive To-Do application built with React and Vite. It helps users organize daily tasks with a clean interface and persistent local storage.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-vercel-link.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/S1t2m3/react-modern-todo-app
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Stores tasks using Local Storage
+- Responsive design for mobile and desktop
+- Modern and clean UI
+- Fast performance with React and Vite
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- Vite
+- CSS (or Tailwind CSS, if you used it)
+- Local Storage
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/S1t2m3/react-modern-todo-app.git
+```
+
+Go to the project folder:
+
+```bash
+cd react-modern-todo-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 👨‍💻 Author
+
+Satyam Sharma
